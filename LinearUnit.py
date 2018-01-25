@@ -1,4 +1,4 @@
-from perceptron import Perceptron
+from perceptron.Perceptron import Perceptron
 
 f = lambda x: x
 
